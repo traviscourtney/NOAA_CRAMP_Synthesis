@@ -1,1 +1,4 @@
 # NOAA_CRAMP_Synthesis
+The analysis script synthesizes NOAA Pacific National Coral Reef Monitoring Program to estimate census-based net carbonate budgets and chemistry-based net calcification estimates for 56 coral reef sites following the 2014-2017 global coral bleaching event. The code additionally includes a combined census-based and chemistry-based calcification vulnerability index for each site for managers and policy makers to assess the concern for maintaining calcium carbonate balance as a policy-level indicator. All code and analyses were conducted in R and are summarized in the following publication:
+
+Courtney TA, Barkley HC, Chan S, Couch CS, Kindinger TL, Oliver TA, Kriegman DJ, Andersson AJ. 2022. Rapid Assessments of Pacific Ocean net coral reef carbonate budgets and net calcification following the 2014-2017 global coral bleaching event. Limnology and Oceanography. In Press.
